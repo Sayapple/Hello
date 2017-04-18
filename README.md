@@ -1,2 +1,3 @@
 # Hello
-Just a repository 
+Hi!
+Life is the art of drawing without an eraser.
